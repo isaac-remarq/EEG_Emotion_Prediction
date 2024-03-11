@@ -7,6 +7,9 @@ This is a beginner project with the objecitve of learning Tensorflow and Scikit-
 ## Dataset
 
 The EEG dataset used in this project is available on Kaggle: [EEG Brainwave Dataset - Feeling Emotions](https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions/data).
+
+The dataset isnt loaded on the repository due to its large size, you can name the file emotions.csv and loaded in the same folder as main.py
+
 ### Citation
 
 
