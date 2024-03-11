@@ -11,6 +11,7 @@ The EEG dataset used in this project is available on Kaggle: [EEG Brainwave Data
 
 
 - [Mental Emotional Sentiment Classification with an EEG-based Brain-machine Interface](https://www.researchgate.net/publication/329403546_Mental_Emotional_Sentiment_Classification_with_an_EEG-based_Brain-machine_Interface)
+- [A Deep Evolutionaty Approach to Bionspired Classifier Optimisation for Brain Machine Interaction](https://www.researchgate.net/publication/335173767_A_Deep_Evolutionary_Approach_to_Bioinspired_Classifier_Optimisation_for_Brain-Machine_Interaction)
   
 ## Code Dependencies
 
