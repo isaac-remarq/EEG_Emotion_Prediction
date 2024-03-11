@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a beginner project with the objecitve of learning Tensorflow and Scikit-learn using a tutotial, the project analyzes EEG data to predict emotional states during movie scenes using a TensorFlow neural network. The tutorial source can be found [here](https://www.youtube.com/watch?v=IAQdqaoHrfE).
+This is a beginner project with the objecitve of learning Tensorflow and Scikit-learn using a tutorial, the project analyzes EEG data to predict emotional states during movie scenes using a TensorFlow neural network. The tutorial source can be found [here](https://www.youtube.com/watch?v=IAQdqaoHrfE).
 
 ## Dataset
 
